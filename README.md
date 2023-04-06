@@ -1,3 +1,3 @@
 # learning-git
 
-This repo was used lean git
+This repo was used learn git
